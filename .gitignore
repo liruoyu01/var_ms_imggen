@@ -1,0 +1,12 @@
+*.pth
+*.pth.tar
+*.ckpt
+*.log
+*.txt
+*.ipynb
+*.pyc
+build/
+dist/
+test/
+image_debug/
+*.egg-info/
